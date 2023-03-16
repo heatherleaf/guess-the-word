@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title id="page-title">Gissa ordet</title>
+<script src="guess-the-word.js"></script>
+<script src="news-lexicon.js"></script>
+<style>
+input[type=number], body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+body { margin: 1em }
+input[type=number] { vertical-align: bottom; width: 2.5em }
+ul { padding-left: 2em }
+li { list-style-type: none }
+hr { margin-top: 100px }
+#solution { display: none }
+#show-solution:checked ~ #solution { display: inline; padding-left: 1em }
+#show-solution { display: none }
+</style>
+</head>
+
+<body>
+<h1>Gissa ordet</h1>
+
+<p>Jag hittade <span id="possibilities"></span>
+ordgåtor med minst <input type="number" id="minchars" min="2" max="10" value="3"/> bokstäver, 
+och minst <input type="number" id="numclues" min="2" max="10" value="5"/> ledtrådar 
+med max <input type="number" id="maxchars" min="2" max="10" value="4"/> extra bokstäver.
+</p>
+
+<p><button id="generatenew">Generera en ny ordgåta</button></p>
+
+<ul id="clueslist"></ul>
+
+<hr/>
+<p>
+<button><label for="show-solution" id="solution-checkbox">Visa lösningen</label></button>
+<input type="checkbox" id="show-solution"/>
+<span id="solution"></span>
+</p>
+
+</body>
+</html>

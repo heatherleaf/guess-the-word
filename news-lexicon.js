@@ -210,7 +210,6 @@ sak
 ställe
 hand
 pengar
-väl_2
 lag
 möjlighet
 tidigare
@@ -335,7 +334,6 @@ därmed
 egentligen
 tidning
 seger
-förslag_2
 öppna
 genomföra
 patient
@@ -1838,7 +1836,6 @@ eld
 förbli
 binda
 världskrig
-förut_2
 cyklist
 fritid
 utlova
@@ -2023,7 +2020,6 @@ förse
 show
 nyckel
 nedan
-a-kassa
 tidskrift
 kritiker
 bevisning
@@ -2620,7 +2616,6 @@ julklapp
 avancera
 vela
 djup
-förlag_2
 tour
 rattfylleri
 provins
@@ -2748,7 +2743,6 @@ kärna
 stängning
 norrut
 mobbning
-tv-serie
 ting
 firande
 forska
@@ -2819,7 +2813,6 @@ merpart
 bevakning
 valdeltagande
 kriminalitet
-tv-kanal
 klassrum
 herr
 deklarera
@@ -3397,7 +3390,6 @@ socialbidrag
 reta
 prioritering
 livsstil
-e-post
 tillslag
 pryl
 lapp
@@ -3458,7 +3450,6 @@ ukrainare
 ros
 omkull
 erkännande
-tv-program
 odling
 invandring
 skilsmässa
@@ -4802,7 +4793,6 @@ snus
 slakteri
 kommunförbund
 hundralapp
-u-land
 trötthet
 stadskärna
 jordbävning
@@ -4845,7 +4835,6 @@ hets
 företagsledning
 tårgas
 trafiksäkerhet
-t-shirt
 fäste
 donation
 trav
@@ -5392,7 +5381,6 @@ skatteintäkt
 sammankomst
 samhällstjänst
 prestige
-p-plats
 kram
 irakier
 föredöme
@@ -5768,7 +5756,6 @@ marsch
 husbil
 fredsavtal
 dödshot
-tv-tittare
 tomrum
 slips
 skytteliga
@@ -5776,7 +5763,6 @@ skogsområde
 skjutsa
 placerare
 munskydd
-förband_2
 flock
 blotta
 ögonvittne
@@ -6045,7 +6031,6 @@ tankbil
 smet
 samlare
 privatisera
-mc-gäng
 logistik
 funktionär
 entreprenad
@@ -6450,7 +6435,6 @@ folkhem
 finanskris
 diet
 skärpning
-p-piller
 lördagsförmiddag
 folkrörelse
 bättra
@@ -7030,7 +7014,6 @@ hyreskontrakt
 förbehåll
 dubbla
 argumentation
-tv-sändning
 tum
 teve
 tankesmedja
@@ -7691,7 +7674,6 @@ kretslopp
 kittla
 kid
 kalkylera
-id-kort
 hälsovård
 förföra
 faster
@@ -8134,7 +8116,6 @@ spring
 sommardag
 skrov
 runtomkring
-rock-n-roll
 remittera
 polisarbete
 pellet
@@ -8176,7 +8157,6 @@ baklänges
 avbräck
 arbetsmetod
 antända
-tv-kamera
 tryckeri
 tornado
 tillfalla
@@ -8282,7 +8262,6 @@ nyckelroll
 musikbransch
 massage
 juniorlag
-it-företag
 handledning
 förtecken
 djurart
@@ -8347,7 +8326,6 @@ vinberg
 valurna
 utläsa
 uppoffring
-tv-ruta
 stationsbefäl
 sociolog
 sagostund
@@ -9299,7 +9277,6 @@ uppfödare
 underrättelse
 trafikkontroll
 tjat
-t-tröja
 språkkunskap
 skolår
 samlande
@@ -9901,7 +9878,6 @@ näta
 narkotikahandel
 klädkedja
 inlaga
-i-land
 hallon
 generositet
 förtydligande
@@ -10426,7 +10402,6 @@ vägvisare
 viktklass
 ungdomsgrupp
 underrättelseverksamhet
-tv-reklam
 svärta
 styrketräning
 strosa
@@ -11097,7 +11072,6 @@ mezzosopran
 langare
 knäck
 kanyl
-k-märka
 härbärgera
 hojta
 glimma
@@ -11118,7 +11092,6 @@ växelvis
 världssamfund
 veckla
 varsin
-tv-skärm
 särbehandla
 synagoga
 spett
@@ -11194,7 +11167,6 @@ kabla
 intermezzo
 huvudgata
 huva
-hjärt-kärlsjukdom
 hemtrakt
 havsvatten
 hardcore
@@ -11331,7 +11303,6 @@ grupptryck
 gestikulera
 fastighetsskötare
 emma
-e-bok
 dygd
 domstolsverk
 demolera
@@ -11589,7 +11560,6 @@ nöjesliv
 negligera
 nationaldagsfirande
 måttstock
-mp3-spelare
 misstänkliggöra
 leasa
 kunskapsnivå
@@ -11666,7 +11636,6 @@ föregripa
 energieffektivisering
 dörrvakt
 dopningsbrott
-dna-spår
 differentiera
 degradering
 degradera
@@ -12040,7 +12009,6 @@ ficktjuv
 felbehandling
 eldorado
 checklista
-cd-spelare
 catwalk
 börsras
 brevskrivare
@@ -12108,7 +12076,6 @@ deciliter
 decentralisering
 centralorganisation
 centralisering
-cd-rom
 bödel
 blockpolitik
 bistro
@@ -12852,7 +12819,6 @@ kläckas
 jättemånga
 inresa
 häger
-hbt-person
 handha
 halvfabrikat
 granskare
@@ -13138,7 +13104,6 @@ utfråga
 uppslagsbok
 underklass
 tvillingbror
-tv-tittande
 trångboddhet
 tjocklek
 spöa
@@ -14321,7 +14286,6 @@ kratta
 korruptionsskandal
 kassakista
 kapning
-k-pist
 ide
 hölje
 huvudvittne
@@ -14542,7 +14506,6 @@ fjärma
 fiskhamn
 filmproducent
 feghet
-e-brev
 dyslektiker
 devalvering
 brädd
@@ -14851,9 +14814,7 @@ framryckning
 fläskkött
 flodhäst
 fiffla
-e-legitimation
 dödsångest
-dna-test
 digga
 dagvatten
 citronskal
@@ -15397,7 +15358,6 @@ enkelrum
 empire
 efterskalv
 dödskalle
-dvd-spelare
 dubbelhet
 djupna
 detaljrikedom
@@ -15853,7 +15813,6 @@ vietnames
 veteranbil
 vattensamling
 uppriktighet
-tv-producent
 trävara
 transportör
 tork
@@ -15970,7 +15929,6 @@ uppföda
 uppfart
 underland
 underarm
-tv-studio
 trippa
 trilling
 tribut
@@ -16078,7 +16036,6 @@ darr
 chocktillstånd
 chefskap
 chark
-bäst-före-datum
 bröllopsfest
 bråck
 bottenskikt
@@ -16380,7 +16337,6 @@ ungdomsfilm
 underrubrik
 underlåtenhet
 tvångströja
-tv-nyhet
 trålare
 trädtopp
 tonart
@@ -16450,7 +16406,6 @@ kriminalpolitik
 konstglas
 konkurrensmedel
 kolonisera
-kola_2
 kibbutz
 kastanje
 kaprifol
@@ -16786,7 +16741,6 @@ vick
 uttömma
 uppäta
 tvårummare
-tv-tablå
 turban
 trerummare
 tremånadersperiod
@@ -16901,7 +16855,6 @@ favoritplats
 fastighetsbransch
 explosionsrisk
 dörröppnare
-drop-in
 dopamin
 disciplinpåföljd
 direktflyg
@@ -17087,7 +17040,6 @@ arrestering
 arbetsmiljömål
 annorstädes
 alltmera
-aha-upplevelse
 affärsbank
 affischering
 adoptivbarn
@@ -17326,7 +17278,6 @@ neurologi
 nedtrappning
 nedsänka
 mölla
-mp3
 motorik
 miljonpublik
 memorial
@@ -17534,7 +17485,6 @@ fetthalt
 felsägning
 familjeband
 enande
-e-mail
 diagnosticera
 departementsråd
 chat
@@ -18033,10 +17983,8 @@ fega
 existensberättigande
 erövrare
 elljusspår
-e-postmeddelande
 dynga
 dygnsvila
-dvd-film
 display
 diskmedel
 dille
@@ -18416,7 +18364,6 @@ efterskänka
 dragracing
 dragkedja
 dockskåp
-dna-profil
 demografi
 datummärkning
 dallra
@@ -18560,7 +18507,6 @@ hänförelse
 häcklöpare
 hoppbacke
 homoäktenskap
-hjärt-lungräddning
 hjärnkontor
 hemligstämpel
 hemfalla
@@ -19060,7 +19006,6 @@ urinvånare
 upptagning
 ungdomsfylleri
 undvara
-u-sväng
 tvångsmedel
 tvålopera
 tvärnit
@@ -19199,7 +19144,6 @@ fisksoppa
 exklusivitet
 energiverk
 elektrod
-e-posta
 dosera
 demokratisera
 delstatsregering
@@ -20256,7 +20200,6 @@ innanmäte
 inlösa
 individualitet
 illvilja
-icke-rökare
 hårväxt
 huvudlinje
 hushållskassa
@@ -20538,7 +20481,6 @@ betonggolv
 besprutning
 bergsklättring
 bergknalle
-berg-och-dalbana
 befrielserörelse
 barnomsorgsavgift
 bankir
@@ -20945,7 +20887,6 @@ konstruktionsfel
 kluvenhet
 klagomur
 kilogram
-kick-off
 katastroffilm
 kassettband
 kartbok
@@ -21339,7 +21280,6 @@ underhållskostnad
 tätplats
 tvångsomhändertagande
 tvåhjuling
-tv-kock
 tullavgift
 tuffhet
 trädgren
@@ -21611,8 +21551,6 @@ uppräkna
 underavdelning
 umgängesrätt
 ukulele
-u-hjälp
-u-båt
 tånge
 täcknamn
 twittrare
@@ -21961,7 +21899,6 @@ produktionsbortfall
 potentat
 portionera
 polisuniform
-play-off
 plastikoperation
 pladdra
 pinkod
@@ -22055,7 +21992,6 @@ idissla
 högtrycksrygg
 hänskjuta
 hyvel
-hysch-hysch
 hyreslag
 hydrolog
 husbehov
@@ -22906,7 +22842,6 @@ människorättskämpe
 musikanläggning
 mujahedin
 muck
-mp3-bok
 motvärn
 motorljud
 modemagasin
@@ -23126,7 +23061,6 @@ vardagsspråk
 vapenskrammel
 valsituation
 vagnhall
-vab-dag
 utväxt
 utreseförbud
 utmanövrera
@@ -23327,7 +23261,6 @@ kaffeservering
 kackla
 jättelänge
 järnvägsräls
-ip-nummer
 inkonsekvens
 ingravera
 infiltration
@@ -23692,7 +23625,6 @@ kalendarium
 juver
 jorda
 jaktförordning
-it-jätte
 ispropp
 islamisering
 inrapportering
@@ -23866,7 +23798,6 @@ tombola
 tjalla
 tiofaldiga
 timglas
-tie-break
 tidsbild
 tidningsman
 telefonör
@@ -24436,7 +24367,6 @@ förgrädda
 fönsterbleck
 födoämne
 färjetur
-fris_2
 framtona
 framsynthet
 framlänges
@@ -24567,7 +24497,6 @@ tågordning
 täckningsgrad
 tvåbarnspappa
 tvärvetenskap
-tv-mottagare
 tusenfoting
 tsarfamilj
 trädplantering
@@ -25383,7 +25312,6 @@ zeppelinare
 yxskaft
 yrkesverksamhet
 yngla
-walkie-talkie
 vårdbidrag
 växtnäring
 vävning
@@ -25719,7 +25647,6 @@ glasskål
 gesällbrev
 genbank
 galosch
-g-kraft
 förändringstakt
 förstamajtåg
 förstahandsalternativ
@@ -26141,7 +26068,6 @@ inkorg
 informationsdisk
 infertilitet
 implementering
-icke-muslim
 höstmånad
 hörande
 högvilt
@@ -26229,7 +26155,6 @@ efterapa
 dödskamp
 dubblett
 dricksglas
-dna-testa
 djuruppfödning
 djupsinnighet
 diskho
@@ -26258,7 +26183,6 @@ bombnedslag
 blåval
 blånad
 blyerts
-bling-bling
 björkved
 björkhage
 bitmärke
@@ -26332,7 +26256,6 @@ utrikesdeklaration
 utmönstra
 utbuktning
 utbildningsväg
-usb-minne
 uppteckning
 uppström
 uppsalabo
@@ -26871,7 +26794,6 @@ tvåspråkighet
 tvättlina
 tvärvändning
 tvärstanna
-tv-sändare
 tröstpris
 träflis
 tryffera
@@ -27507,7 +27429,6 @@ självbehärskning
 sjukvårdsreform
 sjukanmäla
 simfot
-sim-kort
 sidensvans
 sick
 shots
@@ -27896,7 +27817,6 @@ avpolitisera
 avkyla
 avkorta
 automateld
-au-pair
 atrium
 arbetsträna
 arbetschef
@@ -28296,7 +28216,6 @@ indiska
 indianhövding
 impa
 ihärdighet
-icke-våld
 iakttagelseförmåga
 höstregn
 hörspel
@@ -28331,7 +28250,6 @@ hittebarn
 hissdörr
 hemortsrätt
 helljus
-hbt-certifiera
 havssula
 hamnkontor
 halvmörker
@@ -28548,7 +28466,6 @@ abrakadabra
 äktenskapsskillnad
 äggviteämne
 yttrandefrihetsfråga
-x-kromosom
 vårdträd
 växtätare
 vätte
@@ -28808,7 +28725,6 @@ oskuldsfullhet
 orsakssammanhang
 orkestermedlem
 origami
-on-line
 omlokalisera
 omklädning
 omedvetenhet
@@ -29461,7 +29377,6 @@ präktighet
 prismotivering
 prior
 presstödsnämnd
-pr-kupp
 porträttmålare
 porslinsmålning
 popmusiker
@@ -30384,7 +30299,6 @@ improvisatör
 importfirma
 illumination
 illojalitet
-id-bricka
 hötorgskonst
 höstkyla
 hönsfågel
@@ -30842,7 +30756,6 @@ stensopp
 statut
 stationssamhälle
 statera
-stand-in
 staffagefigur
 spökskrivare
 språkpolitik
@@ -31186,7 +31099,6 @@ implosion
 immunbristsjukdom
 ikonografi
 idrottsplan
-icke-spridningsavtal
 hövlighet
 höstvete
 hörntand
@@ -31381,7 +31293,6 @@ daltande
 dadaism
 credd
 copycat
-come-back
 clips
 cirkusföreställning
 chorizo
@@ -31652,7 +31563,6 @@ solgud
 solfläck
 soldag
 sold
-sol-och-vårare
 snölandskap
 snäsa
 snygghet
@@ -32202,7 +32112,6 @@ efterspaning
 eftersläng
 eftermiddagsrusning
 effektökning
-e-leg
 dödsår
 dödssätt
 dådkraft
@@ -32354,7 +32263,6 @@ adventsstake
 acetylengas
 abstinensbesvär
 abnormitet
-abc-bok
 överskådlighet
 överlöpare
 överliggare
@@ -32698,7 +32606,6 @@ pappersblomma
 panegyrik
 paltor
 paleontologi
-p-ruta
 oåterkalleligen
 oxel
 overksamhet
@@ -32762,7 +32669,6 @@ muskelbil
 musikgudstjänst
 multiplikationstabell
 mudder
-mox-bränsle
 motorvagn
 morgongåva
 moralbegrepp
@@ -32835,7 +32741,6 @@ licensera
 levnadsbeskrivning
 leverfläck
 lektör
-lcd-skärm
 latinläroverk
 lasera
 larvfötter

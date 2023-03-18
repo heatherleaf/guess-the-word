@@ -99,6 +99,7 @@ function calculate_possibilities() {
 
 function generate_puzzle() {
     if (!(possibilities && possibilities.length)) return;
+    document.getElementById('show-solution').checked = false;
 
     let numclues = +document.getElementById('numclues').value;
     let solution = document.getElementById('solution');

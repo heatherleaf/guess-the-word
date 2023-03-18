@@ -6,17 +6,30 @@
 <script src="guess-the-word.js"></script>
 <script src="news-lexicon.js"></script>
 <style>
-input[type=number], body {
+body { margin: 1em }
+input[type=number], body, button {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 12pt;
 }
-body { margin: 1em }
-input[type=number] { vertical-align: bottom; width: 2.5em }
+input[type=number] { 
+    vertical-align: bottom; 
+    width: 2em; 
+    border: 0;
+}
+button {
+    padding: 5px 10px;
+    background-color: #eee;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+button:hover { background-color: white }
 ul { padding-left: 2em }
 li { list-style-type: none }
 hr { margin-top: 100px }
-#solution { display: none }
-#show-solution:checked ~ #solution { display: inline; padding-left: 1em }
+#hide-solution-text { display: none }
+#show-solution-text { display: inline }
+#show-solution:checked ~ * #hide-solution-text { display: inline }
+#show-solution:checked ~ * #show-solution-text { display: none }
 #show-solution { display: none }
 </style>
 </head>
@@ -36,9 +49,11 @@ med max <input type="number" id="maxchars" min="2" max="10" value="4"/> extra bo
 
 <hr/>
 <p>
-<button><label for="show-solution" id="solution-checkbox">Visa lösningen</label></button>
 <input type="checkbox" id="show-solution"/>
-<span id="solution"></span>
+<button><label for="show-solution">
+    <span id="show-solution-text">Visa lösningen</span>
+    <span id="hide-solution-text">Göm lösningen = <span id="solution"></span></span>
+</label></button>
 </p>
 
 </body>

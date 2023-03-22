@@ -6,8 +6,20 @@
 <script src="guess-the-word.js"></script>
 <script src="news-lexicon.js"></script>
 <style>
-body { margin: 1em }
-input[type=number], body, button {
+body { margin: 2em }
+#riddle-box {
+    padding: 2em;
+    margin: 2em 0;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: fit-content;
+}
+#response.correct { 
+    color: red; 
+    font-style: italic; 
+    font-weight: bold;
+}
+input, body, button {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 12pt;
 }
@@ -16,15 +28,17 @@ input[type=number] {
     width: 2em; 
     border: 0;
 }
-button {
+button, input[type=text] {
     padding: 5px 10px;
-    background-color: #eee;
     border: 1px solid black;
     border-radius: 5px;
 }
+button, #riddle-box {
+    background-color: #eee;
+}
 button:hover { background-color: white }
-ul { padding-left: 2em }
-li { list-style-type: none }
+ul { padding-left: 3em }
+li { list-style-type: "· · · " }
 hr { margin-top: 100px }
 #hide-solution-text { display: none }
 #show-solution-text { display: inline }
@@ -37,16 +51,21 @@ hr { margin-top: 100px }
 <body>
 <h1>Gissa ordet</h1>
 
+<div id="riddle-box">
+Vilket ord är ett gemensamt förled till följande ord?
+<ul id="clueslist"></ul>
+Gissning: <input type="text" id="user-guess" size="10"/>
+&nbsp; <span id="response"></span>
+</div>
+
 <p>Jag hittade <span id="possibilities"></span>
 ordgåtor med minst <input type="number" id="minchars" min="2" max="10" value="3"/> bokstäver, 
 och minst <input type="number" id="numclues" min="2" max="10" value="5"/> ledtrådar 
 med max <input type="number" id="maxchars" min="2" max="10" value="4"/> extra bokstäver.
 </p>
-
+    
 <p><button id="generatenew">Generera en ny ordgåta</button></p>
-
-<ul id="clueslist"></ul>
-
+    
 <hr/>
 <p>
 <input type="checkbox" id="show-solution"/>

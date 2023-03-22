@@ -10,6 +10,7 @@ function initialize() {
     document.getElementById('minchars').addEventListener('change', calculate_possibilities);
     document.getElementById('maxchars').addEventListener('change', calculate_possibilities);
     document.getElementById('generatenew').addEventListener('click', generate_puzzle);
+    document.getElementById('user-guess').addEventListener('input', check_user_guess);
     calculate_DB();
 }
 
@@ -23,6 +24,21 @@ function expand(word, followers) {
         expand(follower, followers);
     }
     return followers;
+}
+
+function check_user_guess() {
+    let solution = document.getElementById('solution').innerText.trim().toLocaleLowerCase();
+    let guess = document.getElementById('user-guess').value.trim().toLocaleLowerCase();
+    let response = document.getElementById('response');
+    response.classList.remove('correct');
+    if (guess.length < 2) {
+        response.innerText = "";
+    } else if (guess === solution) {
+        response.innerText = "Rätt svar!";
+        response.classList.add('correct');
+    } else {
+        response.innerText = "Njae, inte riktigt rätt...";
+    }
 }
 
 function calculate_DB() {
@@ -114,8 +130,12 @@ function generate_puzzle() {
     clues.sort();
     solution.innerText = puzzle.word;
     for (let cl of clues) {
-        clueslist.innerHTML += `<li>. . . ${cl}</li>`
+        clueslist.innerHTML += `<li>${cl}</li>`
     }
+    let guess = document.getElementById('user-guess')
+    guess.value = "";
+    guess.focus();
+    check_user_guess();
 }
 
 
@@ -130,5 +150,3 @@ function shuffle(arr) {
         [arr[i], arr[index]] = [arr[index], arr[i]];
     }
 }
-
-    

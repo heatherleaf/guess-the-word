@@ -7,11 +7,10 @@
 <script src="news-lexicon.js"></script>
 <style>
 body { margin: 2em }
-#riddle-box {
+div#riddle-box {
     padding: 2em;
     margin: 2em 0;
-    border: 1px solid grey;
-    border-radius: 10px;
+    border-radius: 20px;
     width: fit-content;
 }
 #response.correct { 
@@ -23,15 +22,16 @@ input, body, button {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 12pt;
 }
+button, input, #riddle-box {
+    border: 1px solid grey;
+    border-radius: 5px;
+}
 input[type=number] { 
     vertical-align: bottom; 
     width: 2em; 
-    border: 0;
 }
 button, input[type=text] {
     padding: 5px 10px;
-    border: 1px solid black;
-    border-radius: 5px;
 }
 button, #riddle-box {
     background-color: #eee;

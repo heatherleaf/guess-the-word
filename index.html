@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title id="page-title">Gissa ordet</title>
 <script src="guess-the-word.js"></script>
 <script src="news-lexicon.js"></script>
@@ -45,6 +46,11 @@ hr { margin-top: 100px }
 #show-solution:checked ~ * #hide-solution-text { display: inline }
 #show-solution:checked ~ * #show-solution-text { display: none }
 #show-solution { display: none }
+@media only screen and (max-width: 600px) {
+  h1 { text-align: center }
+  .break { display: block }
+  .pad { margin-left: 0.5em }
+}
 </style>
 </head>
 
@@ -59,9 +65,10 @@ Gissning: <input type="text" id="user-guess" size="10"/>
 </div>
 
 <p>Jag hittade <span id="possibilities"></span>
-ordgåtor med minst <input type="number" id="minchars" min="2" max="10" value="3"/> bokstäver, 
-och minst <input type="number" id="numclues" min="2" max="10" value="5"/> ledtrådar 
-med max <input type="number" id="maxchars" min="2" max="10" value="4"/> extra bokstäver.
+ordgåtor med
+<span class="break">minst <input type="number" id="minchars" min="2" max="10" value="3"/> bokstäver, och</span>
+<span class="break">minst <input type="number" id="numclues" min="2" max="10" value="5"/> ledtrådar med</span>
+<span class="break"> max <input type="number" id="maxchars" min="2" max="10" value="4" class="pad"/> extra bokstäver.</span>
 </p>
     
 <p><button id="generatenew">Generera en ny ordgåta</button></p>
